@@ -1,4 +1,4 @@
-is project aims to calculate the victory probabilities for all fights in the upcoming UFC card, based on fighter statistics obtained from the website ufcstats.com. Specifically, the project focuses on forecasting the first fight contained on the site: The forecast for the upcoming UFC event.
+is project aims to calculate the victory probabilities for all fights in the upcoming UFC card, based on fighter statistics obtained from the website ufcstats.com. Specifically, the project focuses on forecasting the first event contained on the site: http://ufcstats.com/statistics/events/upcoming.
 
 Methodology:
 
