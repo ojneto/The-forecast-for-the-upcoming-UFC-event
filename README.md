@@ -12,12 +12,13 @@ To execute the project, follow these steps:
 
 Ensure that the following Python packages are installed:
 
-pandas
-requests
-BeautifulSoup
-tqdm
-datetime
-joblib
+pandas, 
+requests, 
+BeautifulSoup, 
+tqdm, 
+datetime, 
+joblib, 
+
 Download the project files and save them in a folder of your choice.
 
 Open the Jupyter Notebook "ufc_event_forecasting.ipynb".
